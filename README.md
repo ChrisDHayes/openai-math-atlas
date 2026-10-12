@@ -10,3 +10,4 @@ Light/dark mode and left-hand navigation
 Source data loads live from openai/math. Descriptions are OpenAI's claims, not independent verification. Nothing here is a correctness verdict on any paper.
 
 Author: Christopher Hayes, CDAIO. Independent academic work for the Boston University MS in Artificial Intelligence. No institutional endorsement by Boston University, OpenAI or AGMAI is implied.
+
